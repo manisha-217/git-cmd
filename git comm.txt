@@ -1,0 +1,7 @@
+git init
+git status
+git add .
+git add name
+git commit -m"messge"
+git log
+git push -u origin master
